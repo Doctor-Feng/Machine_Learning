@@ -1,0 +1,79 @@
+11	BsmI    AapI
+
+12	FokI    BsmI    AapI    TaqI
+
+13	FokI    BsmI    AapI    TaqI
+
+14	TaqI
+
+15	FokI    BsmI    AapI    TaqI
+
+16	BsmI    AapI
+
+17	BsmI    TaqI
+
+18	FokI    BsmI    AapI    TaqI
+
+19	FokI
+
+20	BsmI    TaqI
+
+21	FokI     TaqI    Cdx2
+
+22	FokI     TaqI
+
+23	FokI    BsmI    AapI    TaqI
+
+24	FokI     TaqI
+
+25	FokI
+
+26	FokI     BsmI
+
+27	BsmI    AapI    TaqI
+
+28	AapI    TaqI
+
+29	FokI     BsmI
+
+30	FokI    BsmI    AapI    Cdx2
+
+31	FokI    TaqI     Cdx2
+
+32	FokI     BsmI
+
+33	BsmI
+
+34	FokI
+
+35	FokI
+
+36	FokI    BsmI    AapI    TaqI    Cdx2
+
+37	FokI     BsmI
+
+38	FokI     TaqI
+
+39	FokI
+
+40	BsmI
+
+41	FokI    BsmI    AapI    TaqI
+
+42	FokI     BsmI
+
+43	FokI
+
+44	BsmI
+
+45	FokI
+
+46	FokI
+
+47	FokI
+
+48	BsmI
+
+49	FokI    BsmI    TaqI
+
+
